@@ -1,5 +1,5 @@
 # Cursiva-Privacy
-Privacy Police for Cursiva Game
+
 **Privacy Policy**
 
 Jonas Beduschi built the Cursiva - Alpha Version app as a Free app. This SERVICE is provided by Jonas Beduschi at no cost and is intended for use as is.
